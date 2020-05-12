@@ -1,2 +1,2 @@
-# Examples
-Examples and sample codes for different language and fields
+# Android Sample codes
+Examples and sample codes for android(java based).
